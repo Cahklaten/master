@@ -1,144 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TRANSTV
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TRANS7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",KOMPASTV
-http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TVONE
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",METROTV
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",NETTV
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",RTV
-http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TVRI
-http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",BERITASATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",BERITASATUWORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",BERITASATUENGLISH
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MYTV
-http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",OCHANNEL
-http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",JAKTV
-http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",DAAITV
-http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ELSHINTATV
-http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",RODJATV
-http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",QURANTV
-http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",SUNNAHTV
-http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ANIPLUS
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ANIMAX
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MKIDZ
-http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TOONKIDZ
-http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ROCKENTERTAINMENT
-http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ROCKEXTREME
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",KIXASIA
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",GEM
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ONEASIA
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TVNASIA
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TVNMOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",CELESTIALMOVIES
-http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",CCM
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ZEEBIOSKOP
-http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",THRILL
-http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",CINEMAWORLD
-http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MCA
-http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MFC
-http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MCE
-http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MCN
-http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",PLAY
-http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",DFC
-http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",LIFESTYLE
-http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",LEARNING&KNOWLEDGE
-http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",SHOWBIZ
-http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",CNA
-http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",NHKWORLD
-http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ALJAZEERAENGLISH
-http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TRTWORLD
-http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",WION
-http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",UA
-http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ALJAZEERA
-http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",CCTV4
-http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",FRANCE24
-http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TV5MONDE
-http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",DWTV
-http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",CGTNDOCUMENTARY
-http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",BLOOMBERGTV
-http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",STYLE
-http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",FIGHTSPORTS
-http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",MOTORVISIONTV
-http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",EGGNETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",ADITV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV"  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png",TATV
-https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L" group-title="Channel VIDIO",Kode Gratis By Semprul
+https://www.dropbox.com/s/16jbz11qsrqvok6/Buih%20Jadi%20Permadani.mp4?dl=1
+
+#EXTINF:-1 tvg-id="Sctv.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Sctv
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-204.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Indosiar
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-205.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Trans7
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-734.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",TransTV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-733.m3u8
+
+#EXTINF:-1 tvg-id="Kompas.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",KompasTV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-874.m3u8
+
+#EXTINF:-1 tvg-id="Gtv.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",GTV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-778.m3u8
+
+#EXTINF:-1 tvg-id="Ochannel.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",O Channel
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-206.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",JakTV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-5415.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",TVRI
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-6441.m3u8
+
+#EXTINF:-1 tvg-id="Tv Edukasi.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Tv Edukasi
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-6838.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",MyTV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-6711.m3u8
+
+#EXTINF:-1 tvg-id="Nusantara.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",NusantaraTV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-7432.m3u8
+
+#EXTINF:-1 tvg-id="Daai.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Daai TV
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-6482.m3u8
+
+#EXTINF:-1 tvg-id="Uchannel.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",U Channel
+#EXTVLCOPT:network-caching=1000
+http://akudandia.xyz/locs/akudandia-6898.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7 (Transmedia)" tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Indonesia Channel",Trans 7 (Transmedia)
