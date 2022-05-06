@@ -124,6 +124,129 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",KAWANUA TV
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
  
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Aqsha TV
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Surau TV Padang
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Rodja TV Cileungsi
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",TAWAFTV
+http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL IMAN
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:0 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",REFORMED 21 (ROHANI KRISTEN)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",ME: Ahlulbayt tv
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="RELIGI",Rodja TV
+http://210.210.155.35/session/c0e10c7a-601a-11ec-9b56-9490aa8c161c/qwr9ew/s/s14/01.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="AL Quran AL Kareem" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL Quran AL Kareem
+http://210.210.155.35/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Madinah tv" tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="RELIGI",Madinah tv
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mekkah tv" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Mekkah tv
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REFORMED 21 (KRISTEN)" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="RELIGI",REFORMED 21 (KRISTEN)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Imam Husein" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Imam Husein
+http://live.imamhossaintv.com/live/ih201/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WESAL TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",WESAL TV HD
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL IMAN
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IQRA TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",IQRA TV
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b850000_t64MzYwcA==.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="AL-IMAN TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL-IMAN TV HD
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Saint TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Rodja TV Cileungsi
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",TAWAFTV
+http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL IMAN
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:0 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",REFORMED 21 (ROHANI KRISTEN)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",ME: Ahlulbayt tv
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="RELIGI",Rodja TV
+http://210.210.155.35/session/c0e10c7a-601a-11ec-9b56-9490aa8c161c/qwr9ew/s/s14/01.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="AL Quran AL Kareem" tvg-logo="" group-title="RELIGI",AL Quran AL Kareem
+http://210.210.155.35/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Madinah tv" tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="RELIGI",Madinah tv
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mekkah tv" tvg-logo="" group-title="RELIGI",Mekkah tv
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REFORMED 21 (KRISTEN)" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="RELIGI",REFORMED 21 (KRISTEN)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Imam Husein" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Imam Husein
+http://live.imamhossaintv.com/live/ih201/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WESAL TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",WESAL TV HD
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL IMAN
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IQRA TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",IQRA TV
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b850000_t64MzYwcA==.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="AL-IMAN TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL-IMAN TV HD
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Saint TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+
+
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",NET.
 http://axcestv.vip:8080/live/freeview/axcestv/657.ts
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",ANTV
