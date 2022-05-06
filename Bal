@@ -1,5 +1,4 @@
-﻿
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",NET.
 http://axcestv.vip:8080/live/freeview/axcestv/657.ts
