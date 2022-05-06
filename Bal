@@ -1,5 +1,129 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (Transmedia)" tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Indonesia Channel",Trans 7 (Transmedia)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b544100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Transtv.png" group-title="Indonesia Channel", TRANSTV
+https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Transtv.png" group-title="Indonesia Channel", TRANSTV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Trans7.png" group-title="Indonesia Channel", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Trans7.png" group-title="Indonesia Channel", TRANS7 HD
+https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Indonesia Channel",INDOSIAR
+http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Indosiar.png" group-title="Indonesia Channel", INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="Indonesia Channel", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="Indonesia Channel", TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="Indonesia Channel",TVRI World
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="Indonesia Channel",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#EXTINF:-1  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
+http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+
+#EXTINF:-1  tvg-id="ext" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1  tvg-id="TATV.id" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png",TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-id="JAKTV.id" group-title="Local Channel" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",JakTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png",Banten Raya TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+
+#EXTINF:-1  tvg-id="ADITV.id" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-id="TVKU.id" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1  tvg-id="BMSTV.id" group-title="Local Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+#EXTINF:-1  tvg-id="CahayaBantenTV.id" group-title="Local Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CTV_Banten_logo.png/revision/latest?cb=20180920052628",CTV Banten 
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+
+#EXTINF:-1  tvg-id="PrimaTV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/RRu0wKR.png",PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+
+#EXTINF:-1  tvg-id="TVDesa.id" group-title="Local Channel" tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png",TV DESA
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+
+#EXTINF:-1  tvg-id="Sakti.id" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",DAYAK TV
+http://122.248.43.138:1935/ch26/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",BTV/BATAMTV
+http://122.248.43.138:1935/ch5/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",JAWAPOSTV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",Rctv
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",Btv 
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",Radar tv
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",Sultra tv
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",Citra tv
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",JEK TV JAMBI
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",JAMBI TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",RADAR LAMPUNG
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",RTV RIAU
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel", TV BANTEN 
+http://103.23.201.170:1935/live/livestream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",SMTV SUMEDANG
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel", JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Local Channel",KAWANUA TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+ 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",NET.
 http://axcestv.vip:8080/live/freeview/axcestv/657.ts
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",ANTV
