@@ -2,10 +2,8 @@
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L",Water FAMILY Nglorogrejo KLATEN
 https://www.dropbox.com/s/9ctq6hvf72pz95n/water.mp4?dl=1
-
 #EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L" group-title="",Kode Gratis By Semprul
 https://www.dropbox.com/s/16jbz11qsrqvok6/Buih%20Jadi%20Permadani.mp4?dl=1
-
 #EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L" group-title="",Gunakan dengan bijak
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
