@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L",Wisata NGLOROG REJO KLATEN
+https://www.dropbox.com/s/q8sorrol0zhu7ha/wisata%20air%20nglorog%20rejo%20-%20polanharjo%20-%20swimming%20water%20world.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L" group-title="",Kode Gratis By Semprul
 https://www.dropbox.com/s/16jbz11qsrqvok6/Buih%20Jadi%20Permadani.mp4?dl=1
 
