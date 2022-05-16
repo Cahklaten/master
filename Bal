@@ -192,6 +192,8 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Nasional",RCTI
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/16.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
