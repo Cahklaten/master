@@ -560,7 +560,8 @@ http://axcestv.vip:8080/live/freeview/axcestv/662.ts
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",MNCTV
 http://axcestv.vip:8080/live/freeview/axcestv/663.ts
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",RCTI
-http://axcestv.vip:8080/live/freeview/axcestv/664.ts
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/16.m3u8
+#http://axcestv.vip:8080/live/freeview/axcestv/664.ts
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",GTV
 http://axcestv.vip:8080/live/freeview/axcestv/665.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",TVRI
