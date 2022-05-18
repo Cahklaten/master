@@ -3052,450 +3052,450 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",NET.
-http://axcestv.vip:8080/live/freeview/axcestv/463.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/463.ts
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",ANTV
-http://axcestv.vip:8080/live/freeview/axcestv/464.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/464.ts
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",INDOSIAR
-http://axcestv.vip:8080/live/freeview/axcestv/465.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/465.ts
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",TRANS TV
-http://axcestv.vip:8080/live/freeview/axcestv/466.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/466.ts
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",TRANS 7
-http://axcestv.vip:8080/live/freeview/axcestv/467.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/467.ts
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",SCTV
-http://axcestv.vip:8080/live/freeview/axcestv/468.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/468.ts
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",MNCTV
-http://axcestv.vip:8080/live/freeview/axcestv/469.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/469.ts
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",RCTI
-http://axcestv.vip:8080/live/freeview/axcestv/470.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/470.ts
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",GTV
-http://axcestv.vip:8080/live/freeview/axcestv/471.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/471.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",TVRI
-http://axcestv.vip:8080/live/freeview/axcestv/472.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/472.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDONESIA",RTV
-http://axcestv.vip:8080/live/freeview/axcestv/473.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/473.ts
 
 #EXTINF:-1 tvg-id="BERNAMA" tvg-name="Astro Bernama" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Bernama
-http://axcestv.vip:8080/live/freeview/axcestv/447.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/447.ts
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Awani
-http://axcestv.vip:8080/live/freeview/axcestv/448.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/448.ts
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Oasis
-http://axcestv.vip:8080/live/freeview/axcestv/449.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/449.ts
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Ceria
-http://axcestv.vip:8080/live/freeview/axcestv/450.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/450.ts
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Ceria [B]
-http://axcestv.vip:8080/live/freeview/axcestv/451.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/451.ts
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Prima
-http://axcestv.vip:8080/live/freeview/axcestv/452.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/452.ts
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Ria
-http://axcestv.vip:8080/live/freeview/axcestv/453.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/453.ts
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Ria [B]
-http://axcestv.vip:8080/live/freeview/axcestv/454.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [A]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Warna [A]
-http://axcestv.vip:8080/live/freeview/axcestv/455.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/455.ts
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Warna [B]
-http://axcestv.vip:8080/live/freeview/axcestv/456.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/456.ts
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [C]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Warna [C]
-http://axcestv.vip:8080/live/freeview/axcestv/457.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/457.ts
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra [A]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Citra [A]
-http://axcestv.vip:8080/live/freeview/axcestv/458.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/458.ts
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Citra [B]
-http://axcestv.vip:8080/live/freeview/axcestv/459.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/459.ts
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Aura
-http://axcestv.vip:8080/live/freeview/axcestv/460.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/460.ts
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO",Astro Rania
-http://axcestv.vip:8080/live/freeview/axcestv/461.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/461.ts
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",BOO
-http://axcestv.vip:8080/live/freeview/axcestv/462.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/462.ts
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 [SD]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV1 [SD]
-http://axcestv.vip:8080/live/freeview/axcestv/431.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/431.ts
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 [FHD]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV1 [FHD]
-http://axcestv.vip:8080/live/freeview/axcestv/432.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/432.ts
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2 [SD]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV2 [SD]
-http://axcestv.vip:8080/live/freeview/axcestv/433.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/433.ts
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2 [FHD]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV2 [FHD]
-http://axcestv.vip:8080/live/freeview/axcestv/434.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/434.ts
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 [FHD]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV3 [FHD]
-http://axcestv.vip:8080/live/freeview/axcestv/435.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/435.ts
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 [HD]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV3 [HD]
-http://axcestv.vip:8080/live/freeview/axcestv/436.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/436.ts
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV3 [B]
-http://axcestv.vip:8080/live/freeview/axcestv/437.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/437.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV6
-http://axcestv.vip:8080/live/freeview/axcestv/438.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/438.ts
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",NTV7
-http://axcestv.vip:8080/live/freeview/axcestv/439.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/439.ts
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",8TV
-http://axcestv.vip:8080/live/freeview/axcestv/440.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/440.ts
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TV9
-http://axcestv.vip:8080/live/freeview/axcestv/441.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/441.ts
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",TVS
-http://axcestv.vip:8080/live/freeview/axcestv/442.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/442.ts
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",Okey
-http://axcestv.vip:8080/live/freeview/axcestv/443.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/443.ts
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",Drama Sangat
-http://axcestv.vip:8080/live/freeview/axcestv/444.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/444.ts
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",Awesome TV
-http://axcestv.vip:8080/live/freeview/axcestv/445.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/445.ts
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MALAYSIA LOKAL",Alhijrah
-http://axcestv.vip:8080/live/freeview/axcestv/446.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/446.ts
 
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FHD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",HBO FHD
-http://axcestv.vip:8080/live/freeview/axcestv/501.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/501.ts
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO (M)" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",HBO (M)
-http://axcestv.vip:8080/live/freeview/axcestv/502.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/502.ts
 #EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",HBO Hits
-http://axcestv.vip:8080/live/freeview/axcestv/503.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/503.ts
 #EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",HBO Family
-http://axcestv.vip:8080/live/freeview/axcestv/504.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/504.ts
 #EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",HBO Signature
-http://axcestv.vip:8080/live/freeview/axcestv/505.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/505.ts
 #EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",&Flix HD
-http://axcestv.vip:8080/live/freeview/axcestv/510.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/510.ts
 #EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",&Prive HD
-http://axcestv.vip:8080/live/freeview/axcestv/511.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/511.ts
 #EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Star Movies
-http://axcestv.vip:8080/live/freeview/axcestv/512.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/512.ts
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Star Movie Select
-http://axcestv.vip:8080/live/freeview/axcestv/513.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/513.ts
 #EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY Pix" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",SONY Pix
-http://axcestv.vip:8080/live/freeview/axcestv/514.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/514.ts
 #EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",MNX HD
-http://axcestv.vip:8080/live/freeview/axcestv/515.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/515.ts
 #EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",SHOWCASE MOVIES
-http://axcestv.vip:8080/live/freeview/axcestv/506.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/506.ts
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Cinemax
-http://axcestv.vip:8080/live/freeview/axcestv/516.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/516.ts
 #EXTINF:-1 tvg-id="" tvg-name="MyCinema" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",MyCinema
-http://axcestv.vip:8080/live/freeview/axcestv/507.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/507.ts
 #EXTINF:-1 tvg-id="" tvg-name="MyCinema Asia" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",MyCinema Asia
-http://axcestv.vip:8080/live/freeview/axcestv/508.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/508.ts
 #EXTINF:-1 tvg-id="" tvg-name="MyFamily Cinema" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",MyFamily Cinema
-http://axcestv.vip:8080/live/freeview/axcestv/509.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/509.ts
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Galaxy
-http://axcestv.vip:8080/live/freeview/axcestv/517.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/517.ts
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Galaxy Premium
-http://axcestv.vip:8080/live/freeview/axcestv/518.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/518.ts
 #EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",HITS Movies
-http://axcestv.vip:8080/live/freeview/axcestv/519.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/519.ts
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",CinemaWorld
-http://axcestv.vip:8080/live/freeview/axcestv/520.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/520.ts
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Thrill
-http://axcestv.vip:8080/live/freeview/axcestv/521.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/521.ts
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",IMC
-http://axcestv.vip:8080/live/freeview/axcestv/522.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/522.ts
 #EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Flik
-http://axcestv.vip:8080/live/freeview/axcestv/523.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/523.ts
 #EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",Bioskop Indonesia
-http://axcestv.vip:8080/live/freeview/axcestv/524.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/524.ts
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="MOVIES",KIX
-http://axcestv.vip:8080/live/freeview/axcestv/525.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/525.ts
 
 #EXTINF:-1 tvg-id="AEC" tvg-name="Astro AEC" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Astro AEC
-http://axcestv.vip:8080/live/freeview/axcestv/481.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/481.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVBJ" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",TVBJ
-http://axcestv.vip:8080/live/freeview/axcestv/474.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/474.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",TVB Classic
-http://axcestv.vip:8080/live/freeview/axcestv/475.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/475.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hua Hee Tai" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Hua Hee Tai
-http://axcestv.vip:8080/live/freeview/axcestv/476.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/476.ts
 #EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Quan Jia
-http://axcestv.vip:8080/live/freeview/axcestv/477.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/477.ts
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",IQiyi
-http://axcestv.vip:8080/live/freeview/axcestv/478.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/478.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Shuang Xing" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Astro Shuang Xing
-http://axcestv.vip:8080/live/freeview/axcestv/479.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/479.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Xiao Tai Yang" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Astro Xiao Tai Yang
-http://axcestv.vip:8080/live/freeview/axcestv/480.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/480.ts
 #EXTINF:-1 tvg-id="AOD" tvg-name="Astro AOD 354" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Astro AOD 354
-http://axcestv.vip:8080/live/freeview/axcestv/482.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/482.ts
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Celestial Movies
-http://axcestv.vip:8080/live/freeview/axcestv/483.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/483.ts
 #EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",CCM
-http://axcestv.vip:8080/live/freeview/axcestv/484.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/484.ts
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CHINESE",Star Chinese Movies
-http://axcestv.vip:8080/live/freeview/axcestv/485.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/485.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
-http://axcestv.vip:8080/live/freeview/axcestv/486.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/486.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First-The Disappearance of Irdina Adhwa
-http://axcestv.vip:8080/live/freeview/axcestv/487.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/487.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Gila Gusti
-http://axcestv.vip:8080/live/freeview/axcestv/488.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/488.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Autumn In Wales
-http://axcestv.vip:8080/live/freeview/axcestv/489.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/489.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Renjana
-http://axcestv.vip:8080/live/freeview/axcestv/490.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/490.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Kabus
-http://axcestv.vip:8080/live/freeview/axcestv/491.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/491.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Kedai Antik Wak Jambi
-http://axcestv.vip:8080/live/freeview/axcestv/492.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/492.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
-http://axcestv.vip:8080/live/freeview/axcestv/493.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/493.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Hantu Kuat Ketawa
-http://axcestv.vip:8080/live/freeview/axcestv/494.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/494.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Hantu Mok Joh
-http://axcestv.vip:8080/live/freeview/axcestv/495.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/495.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Marabahaya Underground
-http://axcestv.vip:8080/live/freeview/axcestv/496.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/496.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First- Serangan Pocong
-http://axcestv.vip:8080/live/freeview/axcestv/497.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/497.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First - Siapa Tutup Lampu?
-http://axcestv.vip:8080/live/freeview/axcestv/498.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/498.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First - Hantu Ke Lima
-http://axcestv.vip:8080/live/freeview/axcestv/499.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/499.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ASTRO FIRST",Astro First -Penunggang Agama 2
-http://axcestv.vip:8080/live/freeview/axcestv/500.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/500.ts
 
 #EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",AXN
-http://axcestv.vip:8080/live/freeview/axcestv/526.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/526.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",BBC Lifestyle
-http://axcestv.vip:8080/live/freeview/axcestv/527.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/527.ts
 #EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",HGTV
-http://axcestv.vip:8080/live/freeview/axcestv/528.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/528.ts
 #EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Warner TV
-http://axcestv.vip:8080/live/freeview/axcestv/529.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/529.ts
 #EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Lifetime
-http://axcestv.vip:8080/live/freeview/axcestv/530.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/530.ts
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Paramount Network
-http://axcestv.vip:8080/live/freeview/axcestv/531.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/531.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Rock Entertainment
-http://axcestv.vip:8080/live/freeview/axcestv/532.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/532.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rock Extreme" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Rock Extreme
-http://axcestv.vip:8080/live/freeview/axcestv/533.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/533.ts
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",HITS
-http://axcestv.vip:8080/live/freeview/axcestv/534.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/534.ts
 #EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Crime Investigation
-http://axcestv.vip:8080/live/freeview/axcestv/535.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/535.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ENTERTAINMENT",Fashion TV
-http://axcestv.vip:8080/live/freeview/axcestv/536.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/536.ts
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",Love Nature
-http://axcestv.vip:8080/live/freeview/axcestv/537.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/537.ts
 #EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",BBC Earth
-http://axcestv.vip:8080/live/freeview/axcestv/538.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/538.ts
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",DMAX
-http://axcestv.vip:8080/live/freeview/axcestv/539.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/539.ts
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",History
-http://axcestv.vip:8080/live/freeview/axcestv/540.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/540.ts
 #EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",National Geographic
-http://axcestv.vip:8080/live/freeview/axcestv/541.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/541.ts
 #EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",Nat Geo Wild
-http://axcestv.vip:8080/live/freeview/axcestv/542.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/542.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",Animal Planet
-http://axcestv.vip:8080/live/freeview/axcestv/543.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/543.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",Discovery Channel
-http://axcestv.vip:8080/live/freeview/axcestv/544.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/544.ts
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",Discovery Asia
-http://axcestv.vip:8080/live/freeview/axcestv/545.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/545.ts
 #EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",AFC
-http://axcestv.vip:8080/live/freeview/axcestv/546.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/546.ts
 #EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KNOWLEDGE",TLC
-http://axcestv.vip:8080/live/freeview/axcestv/547.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/547.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",iNews
-http://axcestv.vip:8080/live/freeview/axcestv/551.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/551.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",TVOne
-http://axcestv.vip:8080/live/freeview/axcestv/552.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/552.ts
 #EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",KOMPAS TV
-http://axcestv.vip:8080/live/freeview/axcestv/553.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/553.ts
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",METRO TV
-http://axcestv.vip:8080/live/freeview/axcestv/554.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/554.ts
 #EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",SEA Today
-http://axcestv.vip:8080/live/freeview/axcestv/555.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/555.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",BBC World News
-http://axcestv.vip:8080/live/freeview/axcestv/556.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/556.ts
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",NHK World
-http://axcestv.vip:8080/live/freeview/axcestv/557.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/557.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",CNN International
-http://axcestv.vip:8080/live/freeview/axcestv/558.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/558.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",CNN Indonesia
-http://axcestv.vip:8080/live/freeview/axcestv/559.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/559.ts
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",DW
-http://axcestv.vip:8080/live/freeview/axcestv/560.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/560.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",Bloomberg
-http://axcestv.vip:8080/live/freeview/axcestv/561.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/561.ts
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="NEWS",Channel News Asia
-http://axcestv.vip:8080/live/freeview/axcestv/562.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/562.ts
 #EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",Al Quran Al Kareem TV
-http://axcestv.vip:8080/live/freeview/axcestv/563.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/563.ts
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",U Channel
-http://axcestv.vip:8080/live/freeview/axcestv/564.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/564.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",Tawaf TV
-http://axcestv.vip:8080/live/freeview/axcestv/565.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/565.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",MTV Live HD
-http://axcestv.vip:8080/live/freeview/axcestv/626.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 #EXTINF:-1 tvg-id="" tvg-name="Channel V. Int" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",Channel V. Int
-http://axcestv.vip:8080/live/freeview/axcestv/627.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/627.ts
 #EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",Prambors
-http://axcestv.vip:8080/live/freeview/axcestv/628.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/628.ts
 #EXTINF:-1 tvg-id="" tvg-name="i-Konser" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",i-Konser
-http://axcestv.vip:8080/live/freeview/axcestv/629.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/629.ts
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="OTHERS",O Channel
-http://axcestv.vip:8080/live/freeview/axcestv/633.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/633.ts
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (Eng)" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Cartoon Network (Eng)
-http://axcestv.vip:8080/live/freeview/axcestv/566.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/566.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (Ind)" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Cartoon Network (Ind)
-http://axcestv.vip:8080/live/freeview/axcestv/567.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/567.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Dreamworks
-http://axcestv.vip:8080/live/freeview/axcestv/568.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/568.ts
 #EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Boomerang
-http://axcestv.vip:8080/live/freeview/axcestv/569.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/569.ts
 #EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Nickelodeon
-http://axcestv.vip:8080/live/freeview/axcestv/570.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/570.ts
 #EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Nick Jr
-http://axcestv.vip:8080/live/freeview/axcestv/571.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/571.ts
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Horee
-http://axcestv.vip:8080/live/freeview/axcestv/572.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/572.ts
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Zoomoo
-http://axcestv.vip:8080/live/freeview/axcestv/573.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/573.ts
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",My Kidz
-http://axcestv.vip:8080/live/freeview/axcestv/574.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/574.ts
 #EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",BabyFirst
-http://axcestv.vip:8080/live/freeview/axcestv/575.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/575.ts
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="CARTOON",Baby TV
-http://axcestv.vip:8080/live/freeview/axcestv/625.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/625.ts
 
 #EXTINF:-1 tvg-id="ohkHD" tvg-name="OhK!" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",OhK!
-http://axcestv.vip:8080/live/freeview/axcestv/430.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/430.ts
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",Animax
-http://axcestv.vip:8080/live/freeview/axcestv/548.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/548.ts
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",Aniplus
-http://axcestv.vip:8080/live/freeview/axcestv/549.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/549.ts
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",Sony GEM TV
-http://axcestv.vip:8080/live/freeview/axcestv/550.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/550.ts
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",Sony One
-http://axcestv.vip:8080/live/freeview/axcestv/576.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/576.ts
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",tvN
-http://axcestv.vip:8080/live/freeview/axcestv/577.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/577.ts
 #EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",tvN Movies
-http://axcestv.vip:8080/live/freeview/axcestv/578.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/578.ts
 #EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",Arirang
-http://axcestv.vip:8080/live/freeview/axcestv/579.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/579.ts
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",KBS World
-http://axcestv.vip:8080/live/freeview/axcestv/581.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/581.ts
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="KOREA",K+
-http://axcestv.vip:8080/live/freeview/axcestv/582.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/582.ts
 #EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",Bollyone HD
-http://axcestv.vip:8080/live/freeview/axcestv/584.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/584.ts
 #EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",Colors HD
-http://axcestv.vip:8080/live/freeview/axcestv/585.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/585.ts
 #EXTINF:-1 tvg-id="Thangathirai" tvg-name="BoxOffice Thangathirai" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",BoxOffice Thangathirai
-http://axcestv.vip:8080/live/freeview/axcestv/583.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/583.ts
 #EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",Astro Vinmeen
-http://axcestv.vip:8080/live/freeview/axcestv/586.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/586.ts
 #EXTINF:-1 tvg-id="Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",Astro Vaanavil
-http://axcestv.vip:8080/live/freeview/axcestv/587.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/587.ts
 #EXTINF:-1 tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",SUN TV
-http://axcestv.vip:8080/live/freeview/axcestv/588.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/588.ts
 #EXTINF:-1 tvg-id="SONY MAX HD" tvg-name="Sony MAX" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",Sony MAX
-http://axcestv.vip:8080/live/freeview/axcestv/589.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/589.ts
 #EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="INDIA",ZEE Bioskop
-http://axcestv.vip:8080/live/freeview/axcestv/590.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/590.ts
 
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM SUKAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",RTM SUKAN
-http://axcestv.vip:8080/live/freeview/axcestv/591.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/591.ts
 #EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Arena
-http://axcestv.vip:8080/live/freeview/axcestv/592.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/592.ts
 #EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Arena 2
-http://axcestv.vip:8080/live/freeview/axcestv/593.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/593.ts
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP [A]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP [A]
-http://axcestv.vip:8080/live/freeview/axcestv/594.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/594.ts
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP [B]
-http://axcestv.vip:8080/live/freeview/axcestv/595.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/595.ts
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2 [A]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP2 [A]
-http://axcestv.vip:8080/live/freeview/axcestv/596.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/596.ts
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2 [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP2 [B]
-http://axcestv.vip:8080/live/freeview/axcestv/597.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/597.ts
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3 [A]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP3 [A]
-http://axcestv.vip:8080/live/freeview/axcestv/598.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/598.ts
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3 [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP3 [B]
-http://axcestv.vip:8080/live/freeview/axcestv/599.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/599.ts
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4 [A]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP4 [A]
-http://axcestv.vip:8080/live/freeview/axcestv/600.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/600.ts
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4 [B]" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP4 [B]
-http://axcestv.vip:8080/live/freeview/axcestv/601.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/601.ts
 #EXTINF:-1 tvg-id="Assp5" tvg-name="ASSP5" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",ASSP5
-http://axcestv.vip:8080/live/freeview/axcestv/602.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/602.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport Premier League" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Sport Premier League
-http://axcestv.vip:8080/live/freeview/axcestv/603.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/603.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport Football" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Sport Football
-http://axcestv.vip:8080/live/freeview/axcestv/604.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/604.ts
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",beIN Sports 1 ID
-http://axcestv.vip:8080/live/freeview/axcestv/605.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/605.ts
 #EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",beIN Sports 2 ID
-http://axcestv.vip:8080/live/freeview/axcestv/606.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/606.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 1" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Sport tv 1
-http://axcestv.vip:8080/live/freeview/axcestv/607.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/607.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Sport tv 2
-http://axcestv.vip:8080/live/freeview/axcestv/608.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/608.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 3" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Sport tv 3
-http://axcestv.vip:8080/live/freeview/axcestv/609.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/609.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 4" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Sport tv 4
-http://axcestv.vip:8080/live/freeview/axcestv/610.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/610.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",BT Sport 1
-http://axcestv.vip:8080/live/freeview/axcestv/611.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/611.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",BT Sport 2
-http://axcestv.vip:8080/live/freeview/axcestv/612.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/612.ts
 #EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Usee Sport 1
-http://axcestv.vip:8080/live/freeview/axcestv/615.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/615.ts
 #EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Usee Sport 2
-http://axcestv.vip:8080/live/freeview/axcestv/616.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/616.ts
 #EXTINF:-1 tvg-id="" tvg-name="MNC Sport 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",MNC Sport 2
-http://axcestv.vip:8080/live/freeview/axcestv/634.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/634.ts
 #EXTINF:-1 tvg-id="" tvg-name="MNC Sport 1" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",MNC Sport 1
-http://axcestv.vip:8080/live/freeview/axcestv/631.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/631.ts
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",SPOTV
-http://axcestv.vip:8080/live/freeview/axcestv/617.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/617.ts
 #EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Spotv 2
-http://axcestv.vip:8080/live/freeview/axcestv/618.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/618.ts
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",WWE
-http://axcestv.vip:8080/live/freeview/axcestv/619.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/619.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Eurosport
-http://axcestv.vip:8080/live/freeview/axcestv/620.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/620.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rugby TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Rugby TV
-http://axcestv.vip:8080/live/freeview/axcestv/621.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/621.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",NBA TV
-http://axcestv.vip:8080/live/freeview/axcestv/622.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/622.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",Fight Sport
-http://axcestv.vip:8080/live/freeview/axcestv/623.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/623.ts
 #EXTINF:-1 tvg-id="" tvg-name="eGG TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",eGG TV
-http://axcestv.vip:8080/live/freeview/axcestv/624.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/624.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SPORTS",NBC Golf
-http://axcestv.vip:8080/live/freeview/axcestv/632.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/632.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax U.S" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Cinemax U.S
-http://axcestv.vip:8080/live/freeview/axcestv/635.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/635.ts
 #EXTINF:-1 tvg-id="" tvg-name="FXM Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",FXM Channel
-http://axcestv.vip:8080/live/freeview/axcestv/636.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/636.ts
 #EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",SyFy
-http://axcestv.vip:8080/live/freeview/axcestv/637.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/637.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Sundance TV
-http://axcestv.vip:8080/live/freeview/axcestv/638.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/638.ts
 #EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Starz
-http://axcestv.vip:8080/live/freeview/axcestv/639.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/639.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Hallmark
-http://axcestv.vip:8080/live/freeview/axcestv/640.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/640.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hallmark Movie" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Hallmark Movie
-http://axcestv.vip:8080/live/freeview/axcestv/641.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/641.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime U.S" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Lifetime U.S
-http://axcestv.vip:8080/live/freeview/axcestv/642.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/642.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime Movie" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="UNITED STATE",Lifetime Movie
-http://axcestv.vip:8080/live/freeview/axcestv/643.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/643.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SINGAPORE",Channel 5
-http://axcestv.vip:8080/live/freeview/axcestv/644.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/644.ts
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SINGAPORE",Channel 8
-http://axcestv.vip:8080/live/freeview/axcestv/645.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/645.ts
 #EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SINGAPORE",Channel U
-http://axcestv.vip:8080/live/freeview/axcestv/646.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/646.ts
 #EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SINGAPORE",Vasantham
-http://axcestv.vip:8080/live/freeview/axcestv/647.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/647.ts
 #EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="SINGAPORE",Suria
-http://axcestv.vip:8080/live/freeview/axcestv/648.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/648.ts
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRdCCrc2Ta8CzVoq-kAWmSPsVJrPlxVrRXw&usqp=CAU",Usee Prime
