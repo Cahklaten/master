@@ -849,902 +849,900 @@ http://93.152.174.144:4000/play/ch12/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Dazn Bar 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Dazn Bar 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116081.m3u8
+http://new-pro.tv:8080/mazen1/123456/116081
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Dazn Bar 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Dazn Bar 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116082.m3u8
+http://new-pro.tv:8080/mazen1/123456/116082
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Eurosport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Eurosport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116072.m3u8
+http://new-pro.tv:8080/mazen1/123456/116072
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Eurosport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Eurosport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116073.m3u8
+http://new-pro.tv:8080/mazen1/123456/116073
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Sky Sport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Sky Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116075.m3u8
+http://new-pro.tv:8080/mazen1/123456/116075
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Sky Sport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Sky Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116076.m3u8
+http://new-pro.tv:8080/mazen1/123456/116076
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Sky Sport Bundesliga 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116077.m3u8
+http://new-pro.tv:8080/mazen1/123456/116077
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Sky Sport Bundesliga 2 HD [ Match Time ]" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Sky Sport Bundesliga 2 HD [ Match Time ]
 
-http://new-pro.tv:8080/live/mazen1/123456/116078.m3u8
+http://new-pro.tv:8080/mazen1/123456/116078
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| DE: Sky Sport News HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| DE: Sky Sport News HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116079.m3u8
+http://new-pro.tv:8080/mazen1/123456/116079
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: EuroSport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: EuroSport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116114.m3u8
+http://new-pro.tv:8080/mazen1/123456/116114
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: EuroSport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: EuroSport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116115.m3u8
+http://new-pro.tv:8080/mazen1/123456/116115
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: Liga TV BAR HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: Liga TV BAR HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116109.m3u8
+http://new-pro.tv:8080/mazen1/123456/116109
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: Movistar F1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: Movistar F1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116117.m3u8
+http://new-pro.tv:8080/mazen1/123456/116117
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: Movistar La Liga 1 FHD  [ Live ]" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: Movistar La Liga 1 FHD  [ Live ]
 
-http://new-pro.tv:8080/live/mazen1/123456/116112.m3u8
+http://new-pro.tv:8080/mazen1/123456/116112
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: Movistar La Liga 2 HD  [ Live ]" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: Movistar La Liga 2 HD  [ Live ]
 
-http://new-pro.tv:8080/live/mazen1/123456/116113.m3u8
+http://new-pro.tv:8080/mazen1/123456/116113
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: Movistar LA Liga HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: Movistar LA Liga HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116110.m3u8
+http://new-pro.tv:8080/mazen1/123456/116110
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Es: Movistar Vamos Bar HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Es: Movistar Vamos Bar HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116111.m3u8
+http://new-pro.tv:8080/mazen1/123456/116111
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Hr: Arena Sport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Hr: Arena Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116138.m3u8
+http://new-pro.tv:8080/mazen1/123456/116138
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Hr: Arena Sport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Hr: Arena Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116139.m3u8
+http://new-pro.tv:8080/mazen1/123456/116139
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Hr: Arena Sport 3 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Hr: Arena Sport 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116140.m3u8
+http://new-pro.tv:8080/mazen1/123456/116140
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Hr: Arena Sport 4 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Hr: Arena Sport 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116141.m3u8
+http://new-pro.tv:8080/mazen1/123456/116141
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| IT: Dazn 1 HD [ Live ]" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| IT: Dazn 1 HD [ Live ]
 
-http://new-pro.tv:8080/live/mazen1/123456/116098.m3u8
+http://new-pro.tv:8080/mazen1/123456/116098
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| IT: RSI LA 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| IT: RSI LA 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116108.m3u8
+http://new-pro.tv:8080/mazen1/123456/116108
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| IT: Sky Sport F1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| IT: Sky Sport F1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116105.m3u8
+http://new-pro.tv:8080/mazen1/123456/116105
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| IT: Sky Sport Football HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| IT: Sky Sport Football HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116104.m3u8
+http://new-pro.tv:8080/mazen1/123456/116104
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| IT: Sky Sport Uno HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| IT: Sky Sport Uno HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116103.m3u8
+http://new-pro.tv:8080/mazen1/123456/116103
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| IT: Sky Sport NBA HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| IT: Sky Sport NBA HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116102.m3u8
+http://new-pro.tv:8080/mazen1/123456/116102
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Arena Sport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Arena Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116136.m3u8
+http://new-pro.tv:8080/mazen1/123456/116136
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Arena Sport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Arena Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116137.m3u8
+http://new-pro.tv:8080/mazen1/123456/116137
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Sport Klub 4" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Sport Klub 4
 
-http://new-pro.tv:8080/live/mazen1/123456/116134.m3u8
+http://new-pro.tv:8080/mazen1/123456/116134
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Sport Klub Golf" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Sport Klub Golf
 
-http://new-pro.tv:8080/live/mazen1/123456/116135.m3u8
+http://new-pro.tv:8080/mazen1/123456/116135
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Sport Klub HD 1" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Sport Klub HD 1
 
-http://new-pro.tv:8080/live/mazen1/123456/116131.m3u8
+http://new-pro.tv:8080/mazen1/123456/116131
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Sport Klub HD 2" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Sport Klub HD 2
 
-http://new-pro.tv:8080/live/mazen1/123456/116132.m3u8
+http://new-pro.tv:8080/mazen1/123456/116132
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Srb: Sport Klub HD 3" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Srb: Sport Klub HD 3
 
-http://new-pro.tv:8080/live/mazen1/123456/116133.m3u8
+http://new-pro.tv:8080/mazen1/123456/116133
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Tr: BeIN Sports 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Internationl⚽Sports",Spt-VIP| Tr: BeIN Sports 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116142.m3u8
+http://new-pro.tv:8080/mazen1/123456/116142
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Tr: BeIN Sports 2 HD" tvg-logo="http://vod-logo.net/photos/4a21cfd91ff740f0cd56d1fdaf41abbe.jpg" group-title="Internationl⚽Sports",Spt-VIP| Tr: BeIN Sports 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116143.m3u8
+http://new-pro.tv:8080/mazen1/123456/116143
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Tr: BeIN Sports 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Internationl⚽Sports",Spt-VIP| Tr: BeIN Sports 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116144.m3u8
+http://new-pro.tv:8080/mazen1/123456/116144
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Tr: BeIN Sports 4 HD" tvg-logo="http://vod-logo.net/photos/77893c903b2fb3799869d36a838c6e4e.png" group-title="Internationl⚽Sports",Spt-VIP| Tr: BeIN Sports 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116145.m3u8
+http://new-pro.tv:8080/mazen1/123456/116145
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SS MOTORSPORTS" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SS MOTORSPORTS
 
-http://new-pro.tv:8080/live/mazen1/123456/117938.m3u8
+http://new-pro.tv:8080/mazen1/123456/117938
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SS TENNIS" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SS TENNIS
 
-http://new-pro.tv:8080/live/mazen1/123456/117939.m3u8
+http://new-pro.tv:8080/mazen1/123456/117939
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports OTT 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports OTT 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/117928.m3u8
+http://new-pro.tv:8080/mazen1/123456/117928
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SUPER SPORTS ACTION" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SUPER SPORTS ACTION
 
-http://new-pro.tv:8080/live/mazen1/123456/117934.m3u8
+http://new-pro.tv:8080/mazen1/123456/117934
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Cricket" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Cricket
 
-http://new-pro.tv:8080/live/mazen1/123456/117936.m3u8
+http://new-pro.tv:8080/mazen1/123456/117936
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SUPER SPORTS FOOTBALL" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SUPER SPORTS FOOTBALL
 
-http://new-pro.tv:8080/live/mazen1/123456/117929.m3u8
+http://new-pro.tv:8080/mazen1/123456/117929
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Golf" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Golf
 
-http://new-pro.tv:8080/live/mazen1/123456/117937.m3u8
+http://new-pro.tv:8080/mazen1/123456/117937
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Grandstand" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Grandstand
 
-http://new-pro.tv:8080/live/mazen1/123456/117927.m3u8
+http://new-pro.tv:8080/mazen1/123456/117927
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Premier League" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Premier League
 
-http://new-pro.tv:8080/live/mazen1/123456/117926.m3u8
+http://new-pro.tv:8080/mazen1/123456/117926
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SUPER SPORTS RUGBY" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SUPER SPORTS RUGBY
 
-http://new-pro.tv:8080/live/mazen1/123456/117935.m3u8
+http://new-pro.tv:8080/mazen1/123456/117935
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Variety 1" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Variety 1
 
-http://new-pro.tv:8080/live/mazen1/123456/117930.m3u8
+http://new-pro.tv:8080/mazen1/123456/117930
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Variety 2" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Variety 2
 
-http://new-pro.tv:8080/live/mazen1/123456/117931.m3u8
+http://new-pro.tv:8080/mazen1/123456/117931
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Variety 3" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Variety 3
 
-http://new-pro.tv:8080/live/mazen1/123456/117933.m3u8
+http://new-pro.tv:8080/mazen1/123456/117933
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: Super Sports Variety 4" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: Super Sports Variety 4
 
-http://new-pro.tv:8080/live/mazen1/123456/117932.m3u8
+http://new-pro.tv:8080/mazen1/123456/117932
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SuperSport Blitz" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SuperSport Blitz
 
-http://new-pro.tv:8080/live/mazen1/123456/117941.m3u8
+http://new-pro.tv:8080/mazen1/123456/117941
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SuperSport Maximo 1" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SuperSport Maximo 1
 
-http://new-pro.tv:8080/live/mazen1/123456/117942.m3u8
+http://new-pro.tv:8080/mazen1/123456/117942
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Af: SuperSport Play" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Af: SuperSport Play
 
-http://new-pro.tv:8080/live/mazen1/123456/117940.m3u8
+http://new-pro.tv:8080/mazen1/123456/117940
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP | WWE NXT" tvg-logo="http://vod-logo.net/photos/1368f40a61fb1cef5628d0d8150daf64.jpg" group-title="Internationl⚽Sports",Spt-VIP | WWE NXT
 
-http://new-pro.tv:8080/live/mazen1/123456/178362.m3u8
+http://new-pro.tv:8080/mazen1/123456/178362
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP | WWE RAW" tvg-logo="http://vod-logo.net/photos/1368f40a61fb1cef5628d0d8150daf64.jpg" group-title="Internationl⚽Sports",Spt-VIP | WWE RAW
 
-http://new-pro.tv:8080/live/mazen1/123456/178363.m3u8
+http://new-pro.tv:8080/mazen1/123456/178363
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP | WWE SMACKDOWN" tvg-logo="http://vod-logo.net/photos/1368f40a61fb1cef5628d0d8150daf64.jpg" group-title="Internationl⚽Sports",Spt-VIP | WWE SMACKDOWN
 
-http://new-pro.tv:8080/live/mazen1/123456/178364.m3u8
+http://new-pro.tv:8080/mazen1/123456/178364
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: BT Sport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: BT Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116083.m3u8
+http://new-pro.tv:8080/mazen1/123456/116083
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: BT Sport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: BT Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116084.m3u8
+http://new-pro.tv:8080/mazen1/123456/116084
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: BT Sport 3 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: BT Sport 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116085.m3u8
+http://new-pro.tv:8080/mazen1/123456/116085
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: EuroSport 1 FHD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: EuroSport 1 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/116096.m3u8
+http://new-pro.tv:8080/mazen1/123456/116096
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: EuroSport 2 FHD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: EuroSport 2 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/116097.m3u8
+http://new-pro.tv:8080/mazen1/123456/116097
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Action HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Action HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116088.m3u8
+http://new-pro.tv:8080/mazen1/123456/116088
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Arena HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Arena HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116089.m3u8
+http://new-pro.tv:8080/mazen1/123456/116089
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Cricket HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Cricket HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116090.m3u8
+http://new-pro.tv:8080/mazen1/123456/116090
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports F1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports F1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116091.m3u8
+http://new-pro.tv:8080/mazen1/123456/116091
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Football HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Football HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116092.m3u8
+http://new-pro.tv:8080/mazen1/123456/116092
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Golf HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Golf HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116093.m3u8
+http://new-pro.tv:8080/mazen1/123456/116093
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Main Event HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Main Event HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116094.m3u8
+http://new-pro.tv:8080/mazen1/123456/116094
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| UK: Sky Sports Premier League HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| UK: Sky Sports Premier League HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116095.m3u8
+http://new-pro.tv:8080/mazen1/123456/116095
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: BeIN Sports 4 HD" tvg-logo="http://vod-logo.net/photos/77893c903b2fb3799869d36a838c6e4e.png" group-title="Internationl⚽Sports",Spt-VIP| Usa: BeIN Sports 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116149.m3u8
+http://new-pro.tv:8080/mazen1/123456/116149
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: BeIN Sports 5 HD" tvg-logo="http://vod-logo.net/photos/2c976f0d5ad788feaa8b4ca16cacfa14.png" group-title="Internationl⚽Sports",Spt-VIP| Usa: BeIN Sports 5 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116150.m3u8
+http://new-pro.tv:8080/mazen1/123456/116150
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: BeIN Sports HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: BeIN Sports HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116146.m3u8
+http://new-pro.tv:8080/mazen1/123456/116146
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: BeIN Sports La Liga" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: BeIN Sports La Liga
 
-http://new-pro.tv:8080/live/mazen1/123456/116147.m3u8
+http://new-pro.tv:8080/mazen1/123456/116147
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: BeIN Sports Xtra HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: BeIN Sports Xtra HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116148.m3u8
+http://new-pro.tv:8080/mazen1/123456/116148
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: ESPN 1" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: ESPN 1
 
-http://new-pro.tv:8080/live/mazen1/123456/116151.m3u8
+http://new-pro.tv:8080/mazen1/123456/116151
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: ESPN 2" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: ESPN 2
 
-http://new-pro.tv:8080/live/mazen1/123456/116152.m3u8
+http://new-pro.tv:8080/mazen1/123456/116152
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: Fox Sports 1" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: Fox Sports 1
 
-http://new-pro.tv:8080/live/mazen1/123456/116153.m3u8
+http://new-pro.tv:8080/mazen1/123456/116153
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Usa: Fox Sports 2" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Usa: Fox Sports 2
 
-http://new-pro.tv:8080/live/mazen1/123456/116154.m3u8
+http://new-pro.tv:8080/mazen1/123456/116154
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: RTSH Sport HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: RTSH Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116126.m3u8
+http://new-pro.tv:8080/mazen1/123456/116126
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Super Sport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Super Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116127.m3u8
+http://new-pro.tv:8080/mazen1/123456/116127
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Super Sport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Super Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116128.m3u8
+http://new-pro.tv:8080/mazen1/123456/116128
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Super Sport  4 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Super Sport  4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116130.m3u8
+http://new-pro.tv:8080/mazen1/123456/116130
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Tring Sport 1" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Tring Sport 1
 
-http://new-pro.tv:8080/live/mazen1/123456/116118.m3u8
+http://new-pro.tv:8080/mazen1/123456/116118
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Tring Sport 3" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Tring Sport 3
 
-http://new-pro.tv:8080/live/mazen1/123456/116120.m3u8
+http://new-pro.tv:8080/mazen1/123456/116120
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Tring Sport 4" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Tring Sport 4
 
-http://new-pro.tv:8080/live/mazen1/123456/116121.m3u8
+http://new-pro.tv:8080/mazen1/123456/116121
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Eurosport 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Eurosport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116122.m3u8
+http://new-pro.tv:8080/mazen1/123456/116122
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Eurosport 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Alb: Eurosport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116123.m3u8
+http://new-pro.tv:8080/mazen1/123456/116123
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Ca: TSN 1 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Ca: TSN 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116155.m3u8
+http://new-pro.tv:8080/mazen1/123456/116155
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Ca: TSN 2 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Ca: TSN 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116156.m3u8
+http://new-pro.tv:8080/mazen1/123456/116156
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Ca: TSN 3 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Ca: TSN 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116157.m3u8
+http://new-pro.tv:8080/mazen1/123456/116157
 
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Ca: TSN 4 HD" tvg-logo="" group-title="Internationl⚽Sports",Spt-VIP| Ca: TSN 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/116158.m3u8
+http://new-pro.tv:8080/mazen1/123456/116158
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC Global" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport⚽4K",Bein AFC Global
 
-http://new-pro.tv:8080/live/mazen1/123456/311976.m3u8
+http://new-pro.tv:8080/mazen1/123456/311976
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 4K" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport⚽4K",Bein AFC1 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/311977.m3u8
+http://new-pro.tv:8080/mazen1/123456/311977
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 4K" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport⚽4K",Bein AFC2 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/311978.m3u8
+http://new-pro.tv:8080/mazen1/123456/311978
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 4K" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport⚽4K",Bein AFC3 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/311979.m3u8
+http://new-pro.tv:8080/mazen1/123456/311979
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC Global HD" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport HD⚽FHD",Bein AFC Global HD
 
-http://new-pro.tv:8080/live/mazen1/123456/311980.m3u8
+http://new-pro.tv:8080/mazen1/123456/311980
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 HD" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport HD⚽FHD",Bein AFC1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/311981.m3u8
+http://new-pro.tv:8080/mazen1/123456/311981
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 HD" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport HD⚽FHD",Bein AFC2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/311982.m3u8
+http://new-pro.tv:8080/mazen1/123456/311982
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 HD" tvg-logo="http://vod-logo.net/photos/2506801254294c0d989682d90e73450e.png" group-title="Bein Sport HD⚽FHD",Bein AFC3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/311983.m3u8
+http://new-pro.tv:8080/mazen1/123456/311983
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC Global SD" tvg-logo="http://vod-logo.net/photos/224b6a9d81f0f2425ad163e01963c655.png" group-title="Bein Sport⚽SD",Bein AFC Global SD
 
-http://new-pro.tv:8080/live/mazen1/123456/311984.m3u8
+http://new-pro.tv:8080/mazen1/123456/311984
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 SD" tvg-logo="http://vod-logo.net/photos/224b6a9d81f0f2425ad163e01963c655.png" group-title="Bein Sport⚽SD",Bein AFC1 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/311985.m3u8
+http://new-pro.tv:8080/mazen1/123456/311985
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 SD" tvg-logo="http://vod-logo.net/photos/224b6a9d81f0f2425ad163e01963c655.png" group-title="Bein Sport⚽SD",Bein AFC2 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/311986.m3u8
+http://new-pro.tv:8080/mazen1/123456/311986
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 SD" tvg-logo="http://vod-logo.net/photos/224b6a9d81f0f2425ad163e01963c655.png" group-title="Bein Sport⚽SD",Bein AFC3 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/311987.m3u8
+http://new-pro.tv:8080/mazen1/123456/311987
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BeIN Sports News HD" tvg-logo="http://vod-logo.net/photos/6a7e5f1fe404f52a695590f32b705cea.png" group-title="Bein Sport HD⚽FHD",BeIN Sports News HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33689.m3u8
+http://new-pro.tv:8080/mazen1/123456/33689
 
 #EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="BeIN Sports News 4K" tvg-logo="http://vod-logo.net/photos/6a7e5f1fe404f52a695590f32b705cea.png" group-title="Bein Sport⚽4K",BeIN Sports News 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/68935.m3u8
+http://new-pro.tv:8080/mazen1/123456/68935
 
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BeIN Sports Global HD" tvg-logo="http://vod-logo.net/photos/224b6a9d81f0f2425ad163e01963c655.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Global HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33688.m3u8
+http://new-pro.tv:8080/mazen1/123456/33688
 
 #EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sports Premium 1 HD" tvg-logo="http://vod-logo.net/photos/f28f340b8ee0552c93cd4439cc2ba276.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Premium 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154695.m3u8
+http://new-pro.tv:8080/mazen1/123456/154695
 
 #EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sports Premium 1 4K" tvg-logo="http://vod-logo.net/photos/f28f340b8ee0552c93cd4439cc2ba276.png" group-title="Bein Sport⚽4K",BeIN Sports Premium 1 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66112.m3u8
+http://new-pro.tv:8080/mazen1/123456/66112
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports Premium 1 FHD" tvg-logo="http://vod-logo.net/photos/f28f340b8ee0552c93cd4439cc2ba276.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Premium 1 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33705.m3u8
+http://new-pro.tv:8080/mazen1/123456/33705
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 1 SD" tvg-logo="http://vod-logo.net/photos/f28f340b8ee0552c93cd4439cc2ba276.png" group-title="Bein Sport⚽SD",BeIN Sports Premium 1 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33687.m3u8
+http://new-pro.tv:8080/mazen1/123456/33687
 
 #EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sports Premium 2 HD" tvg-logo="http://vod-logo.net/photos/1047bcbb049a4f005ceec67fa778b268.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Premium 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154696.m3u8
+http://new-pro.tv:8080/mazen1/123456/154696
 
 #EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sports Premium 2 4K" tvg-logo="http://vod-logo.net/photos/1047bcbb049a4f005ceec67fa778b268.png" group-title="Bein Sport⚽4K",BeIN Sports Premium 2 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66111.m3u8
+http://new-pro.tv:8080/mazen1/123456/66111
 
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports Premium 2 FHD" tvg-logo="http://vod-logo.net/photos/1047bcbb049a4f005ceec67fa778b268.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Premium 2 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33704.m3u8
+http://new-pro.tv:8080/mazen1/123456/33704
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 2 SD" tvg-logo="http://vod-logo.net/photos/1047bcbb049a4f005ceec67fa778b268.png" group-title="Bein Sport⚽SD",BeIN Sports Premium 2 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33686.m3u8
+http://new-pro.tv:8080/mazen1/123456/33686
 
 #EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="BeIN Sports Premium 3 HD" tvg-logo="http://vod-logo.net/photos/835916ba28ef9ace577b4a7cf12fe3f7.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Premium 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154697.m3u8
+http://new-pro.tv:8080/mazen1/123456/154697
 
 #EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN Sports Premium 3 4K" tvg-logo="http://vod-logo.net/photos/835916ba28ef9ace577b4a7cf12fe3f7.png" group-title="Bein Sport⚽4K",beIN Sports Premium 3 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66104.m3u8
+http://new-pro.tv:8080/mazen1/123456/66104
 
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports Premium 3 FHD" tvg-logo="http://vod-logo.net/photos/835916ba28ef9ace577b4a7cf12fe3f7.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Premium 3 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33703.m3u8
+http://new-pro.tv:8080/mazen1/123456/33703
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 3 SD" tvg-logo="http://vod-logo.net/photos/835916ba28ef9ace577b4a7cf12fe3f7.png" group-title="Bein Sport⚽SD",BeIN Sports Premium 3 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33685.m3u8
+http://new-pro.tv:8080/mazen1/123456/33685
 
 #EXTINF:-1 tvg-id="beinseries1ar.qa" tvg-name="BeIN Sports 1 HD" tvg-logo="http://vod-logo.net/photos/fc1e5b8b7098e5d560a7e6c4100f6f36.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154698.m3u8
+http://new-pro.tv:8080/mazen1/123456/154698
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports 1 4K" tvg-logo="http://vod-logo.net/photos/fc1e5b8b7098e5d560a7e6c4100f6f36.png" group-title="Bein Sport⚽4K",BeIN Sports 1 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66105.m3u8
+http://new-pro.tv:8080/mazen1/123456/66105
 
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports 1 FHD" tvg-logo="http://vod-logo.net/photos/fc1e5b8b7098e5d560a7e6c4100f6f36.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 1 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33702.m3u8
+http://new-pro.tv:8080/mazen1/123456/33702
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 SD" tvg-logo="http://vod-logo.net/photos/fc1e5b8b7098e5d560a7e6c4100f6f36.png" group-title="Bein Sport⚽SD",BeIN Sports 1 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33684.m3u8
+http://new-pro.tv:8080/mazen1/123456/33684
 
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sports 2 HD" tvg-logo="http://vod-logo.net/photos/c02b0b9f8ab036d7504eea45e3f5e99b.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154699.m3u8
+http://new-pro.tv:8080/mazen1/123456/154699
 
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sports 2 4K" tvg-logo="http://vod-logo.net/photos/c02b0b9f8ab036d7504eea45e3f5e99b.png" group-title="Bein Sport⚽4K",BeIN Sports 2 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66106.m3u8
+http://new-pro.tv:8080/mazen1/123456/66106
 
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports 2 FHD" tvg-logo="http://vod-logo.net/photos/c02b0b9f8ab036d7504eea45e3f5e99b.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 2 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33701.m3u8
+http://new-pro.tv:8080/mazen1/123456/33701
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 SD" tvg-logo="http://vod-logo.net/photos/c02b0b9f8ab036d7504eea45e3f5e99b.png" group-title="Bein Sport⚽SD",BeIN Sports 2 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33683.m3u8
+http://new-pro.tv:8080/mazen1/123456/33683
 
 #EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sports 3 HD" tvg-logo="http://vod-logo.net/photos/3e9c8336c2ea97d255fbd78d003a424c.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154700.m3u8
+http://new-pro.tv:8080/mazen1/123456/154700
 
 #EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sports 3 4K" tvg-logo="http://vod-logo.net/photos/3e9c8336c2ea97d255fbd78d003a424c.png" group-title="Bein Sport⚽4K",BeIN Sports 3 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66107.m3u8
+http://new-pro.tv:8080/mazen1/123456/66107
 
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports 3 FHD" tvg-logo="http://vod-logo.net/photos/3e9c8336c2ea97d255fbd78d003a424c.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 3 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33700.m3u8
+http://new-pro.tv:8080/mazen1/123456/33700
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 SD" tvg-logo="http://vod-logo.net/photos/3e9c8336c2ea97d255fbd78d003a424c.png" group-title="Bein Sport⚽SD",BeIN Sports 3 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33682.m3u8
+http://new-pro.tv:8080/mazen1/123456/33682
 
 #EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sports 4 HD" tvg-logo="http://vod-logo.net/photos/77893c903b2fb3799869d36a838c6e4e.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154701.m3u8
+http://new-pro.tv:8080/mazen1/123456/154701
 
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports 4 FHD" tvg-logo="http://vod-logo.net/photos/77893c903b2fb3799869d36a838c6e4e.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 4 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33699.m3u8
+http://new-pro.tv:8080/mazen1/123456/33699
 
 #EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sports 4 4K" tvg-logo="http://vod-logo.net/photos/5c83c4eb391933a12e2eabe58c2cbc5e.png" group-title="Bein Sport⚽4K",BeIN Sports 4 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66108.m3u8
+http://new-pro.tv:8080/mazen1/123456/66108
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 SD" tvg-logo="http://vod-logo.net/photos/77893c903b2fb3799869d36a838c6e4e.png" group-title="Bein Sport⚽SD",BeIN Sports 4 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33681.m3u8
+http://new-pro.tv:8080/mazen1/123456/33681
 
 #EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sports 5 HD" tvg-logo="http://vod-logo.net/photos/2c976f0d5ad788feaa8b4ca16cacfa14.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 5 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154702.m3u8
+http://new-pro.tv:8080/mazen1/123456/154702
 
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports 5 FHD" tvg-logo="http://vod-logo.net/photos/2c976f0d5ad788feaa8b4ca16cacfa14.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 5 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33698.m3u8
+http://new-pro.tv:8080/mazen1/123456/33698
 
 #EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sports 5 4K" tvg-logo="http://vod-logo.net/photos/185429ff679a9b6243ade8b1a31bed53.png" group-title="Bein Sport⚽4K",BeIN Sports 5 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66109.m3u8
+http://new-pro.tv:8080/mazen1/123456/66109
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 SD" tvg-logo="http://vod-logo.net/photos/2c976f0d5ad788feaa8b4ca16cacfa14.png" group-title="Bein Sport⚽SD",BeIN Sports 5 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33680.m3u8
+http://new-pro.tv:8080/mazen1/123456/33680
 
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports 6 HD" tvg-logo="http://vod-logo.net/photos/0352244aa9acae4c991037bba0e50f98.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 6 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154703.m3u8
+http://new-pro.tv:8080/mazen1/123456/154703
 
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports 6 FHD" tvg-logo="http://vod-logo.net/photos/0352244aa9acae4c991037bba0e50f98.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 6 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33697.m3u8
+http://new-pro.tv:8080/mazen1/123456/33697
 
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports 6 4K" tvg-logo="http://vod-logo.net/photos/0352244aa9acae4c991037bba0e50f98.png" group-title="Bein Sport⚽4K",BeIN Sports 6 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66110.m3u8
+http://new-pro.tv:8080/mazen1/123456/66110
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 SD" tvg-logo="http://vod-logo.net/photos/0352244aa9acae4c991037bba0e50f98.png" group-title="Bein Sport⚽SD",BeIN Sports 6 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33679.m3u8
+http://new-pro.tv:8080/mazen1/123456/33679
 
 #EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BeIN Sports 7 HD" tvg-logo="http://vod-logo.net/photos/a5c44b5edade28fda16554b7b72a2cba.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 7 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/154704.m3u8
+http://new-pro.tv:8080/mazen1/123456/154704
 
 #EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BeIN Sports 7 4K" tvg-logo="http://vod-logo.net/photos/a5c44b5edade28fda16554b7b72a2cba.png" group-title="Bein Sport⚽4K",BeIN Sports 7 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66102.m3u8
+http://new-pro.tv:8080/mazen1/123456/66102
 
 #EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports 7 FHD" tvg-logo="http://vod-logo.net/photos/a5c44b5edade28fda16554b7b72a2cba.png" group-title="Bein Sport HD⚽FHD",BeIN Sports 7 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33696.m3u8
+http://new-pro.tv:8080/mazen1/123456/33696
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 SD" tvg-logo="http://vod-logo.net/photos/a5c44b5edade28fda16554b7b72a2cba.png" group-title="Bein Sport⚽SD",BeIN Sports 7 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/33678.m3u8
+http://new-pro.tv:8080/mazen1/123456/33678
 
 #EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BeIN Sports NBA HD" tvg-logo="http://vod-logo.net/photos/1392d67abcea83d48cea7e10f40db268.png" group-title="Bein Sport HD⚽FHD",BeIN Sports NBA HD
 
-http://new-pro.tv:8080/live/mazen1/123456/28294.m3u8
+http://new-pro.tv:8080/mazen1/123456/28294
 
 #EXTINF:-1 tvg-id="beinsportsnbaar.qa" tvg-name="BeIN Sports NBA 4K" tvg-logo="http://vod-logo.net/photos/1392d67abcea83d48cea7e10f40db268.png" group-title="Bein Sport⚽4K",BeIN Sports NBA 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66094.m3u8
+http://new-pro.tv:8080/mazen1/123456/66094
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 1 HD" tvg-logo="http://vod-logo.net/photos/c3652fcb0619966434f021780d6721fe.png" group-title="Bein Sport HD⚽FHD",Bein Sports English 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/219142.m3u8
+http://new-pro.tv:8080/mazen1/123456/219142
 
 #EXTINF:-1 tvg-id="beinsports16.qa" tvg-name="Bein Sports English 1 FHD" tvg-logo="http://vod-logo.net/photos/c3652fcb0619966434f021780d6721fe.png" group-title="Bein Sport HD⚽FHD",Bein Sports English 1 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33690.m3u8
+http://new-pro.tv:8080/mazen1/123456/33690
 
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BeIN Sports English 1 4K" tvg-logo="http://vod-logo.net/photos/c3652fcb0619966434f021780d6721fe.png" group-title="Bein Sport⚽4K",BeIN Sports English 1 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66119.m3u8
+http://new-pro.tv:8080/mazen1/123456/66119
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports English 1 SD" tvg-logo="http://vod-logo.net/photos/c3652fcb0619966434f021780d6721fe.png" group-title="Bein Sport⚽SD",BeIN Sports English 1 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/65951.m3u8
+http://new-pro.tv:8080/mazen1/123456/65951
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 2 HD" tvg-logo="http://vod-logo.net/photos/3548e8f3f924c4633332c51610fbbefa.png" group-title="Bein Sport HD⚽FHD",Bein Sports English 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/219143.m3u8
+http://new-pro.tv:8080/mazen1/123456/219143
 
 #EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="Bein Sports English 2 FHD" tvg-logo="http://vod-logo.net/photos/3548e8f3f924c4633332c51610fbbefa.png" group-title="Bein Sport HD⚽FHD",Bein Sports English 2 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33694.m3u8
+http://new-pro.tv:8080/mazen1/123456/33694
 
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BeIN Sports English 2 4K" tvg-logo="http://vod-logo.net/photos/3548e8f3f924c4633332c51610fbbefa.png" group-title="Bein Sport⚽4K",BeIN Sports English 2 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66120.m3u8
+http://new-pro.tv:8080/mazen1/123456/66120
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports English 2 SD" tvg-logo="http://vod-logo.net/photos/3548e8f3f924c4633332c51610fbbefa.png" group-title="Bein Sport⚽SD",BeIN Sports English 2 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/65947.m3u8
+http://new-pro.tv:8080/mazen1/123456/65947
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 3 HD" tvg-logo="http://vod-logo.net/photos/e2bd7a1c6d81030fe587225742030a6d.png" group-title="Bein Sport HD⚽FHD",Bein Sports English 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/219144.m3u8
+http://new-pro.tv:8080/mazen1/123456/219144
 
 #EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="Bein Sports English 3 FHD" tvg-logo="http://vod-logo.net/photos/e2bd7a1c6d81030fe587225742030a6d.png" group-title="Bein Sport HD⚽FHD",Bein Sports English 3 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33693.m3u8
+http://new-pro.tv:8080/mazen1/123456/33693
 
 #EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BeIN Sports English 3 4K" tvg-logo="http://vod-logo.net/photos/e2bd7a1c6d81030fe587225742030a6d.png" group-title="Bein Sport⚽4K",BeIN Sports English 3 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66123.m3u8
+http://new-pro.tv:8080/mazen1/123456/66123
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports English 3 SD" tvg-logo="http://vod-logo.net/photos/e2bd7a1c6d81030fe587225742030a6d.png" group-title="Bein Sport⚽SD",BeIN Sports English 3 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/65948.m3u8
+http://new-pro.tv:8080/mazen1/123456/65948
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports French 1 HD" tvg-logo="http://vod-logo.net/photos/be22e3c3e07fb4f7cf39c2e98966fa9a.png" group-title="Bein Sport HD⚽FHD",Bein Sports French 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/219145.m3u8
+http://new-pro.tv:8080/mazen1/123456/219145
 
 #EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="Bein Sports French 1 FHD" tvg-logo="http://vod-logo.net/photos/be22e3c3e07fb4f7cf39c2e98966fa9a.png" group-title="Bein Sport HD⚽FHD",Bein Sports French 1 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/33692.m3u8
+http://new-pro.tv:8080/mazen1/123456/33692
 
 #EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BeIN Sports French 1 4K" tvg-logo="http://vod-logo.net/photos/be22e3c3e07fb4f7cf39c2e98966fa9a.png" group-title="Bein Sport⚽4K",BeIN Sports French 1 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66121.m3u8
+http://new-pro.tv:8080/mazen1/123456/66121
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports French 1 SD" tvg-logo="http://vod-logo.net/photos/be22e3c3e07fb4f7cf39c2e98966fa9a.png" group-title="Bein Sport⚽SD",BeIN Sports French 1 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/65949.m3u8
+http://new-pro.tv:8080/mazen1/123456/65949
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports French 2 HD" tvg-logo="http://vod-logo.net/photos/48a530d6e916e45c88740f21b046ac1e.png" group-title="Bein Sport HD⚽FHD",Bein Sports French 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/219146.m3u8
+http://new-pro.tv:8080/mazen1/123456/219146
 
 #EXTINF:-1 tvg-id="beinsports15.qa" tvg-name="Bein Sports French 2 FHD" tvg-logo="http://vod-logo.net/photos/48a530d6e916e45c88740f21b046ac1e.png" group-title="Bein Sport HD⚽FHD",Bein Sports French 2 FHD
 
-http://new-pro.tv:8080/live/mazen1/123456/36360.m3u8
+http://new-pro.tv:8080/mazen1/123456/36360
 
 #EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BeIN Sports French 2 4K" tvg-logo="http://vod-logo.net/photos/48a530d6e916e45c88740f21b046ac1e.png" group-title="Bein Sport⚽4K",BeIN Sports French 2 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/66122.m3u8
+http://new-pro.tv:8080/mazen1/123456/66122
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports French 2 SD" tvg-logo="http://vod-logo.net/photos/48a530d6e916e45c88740f21b046ac1e.png" group-title="Bein Sport⚽SD",BeIN Sports French 2 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/65950.m3u8
+http://new-pro.tv:8080/mazen1/123456/65950
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports French 3 HD" tvg-logo="http://vod-logo.net/photos/992c905de9759189197d04c2813292ff.png" group-title="Bein Sport HD⚽FHD",Bein Sports French 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/219147.m3u8
+http://new-pro.tv:8080/mazen1/123456/219147
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports French 3 4k" tvg-logo="http://vod-logo.net/photos/992c905de9759189197d04c2813292ff.png" group-title="Bein Sport⚽4K",BeIN Sports French 3 4k
 
-http://new-pro.tv:8080/live/mazen1/123456/219148.m3u8
+http://new-pro.tv:8080/mazen1/123456/219148
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 1 HD" tvg-logo="http://vod-logo.net/photos/c4ec7c4afe16f29434294073ef520f91.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Xtra 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/176223.m3u8
+http://new-pro.tv:8080/mazen1/123456/176223
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 1 4K" tvg-logo="http://vod-logo.net/photos/c4ec7c4afe16f29434294073ef520f91.png" group-title="Bein Sport⚽4K",BeIN Sports Xtra 1 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/176221.m3u8
+http://new-pro.tv:8080/mazen1/123456/176221
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 1 SD" tvg-logo="http://vod-logo.net/photos/c4ec7c4afe16f29434294073ef520f91.png" group-title="Bein Sport⚽SD",BeIN Sports Xtra 1 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/176225.m3u8
+http://new-pro.tv:8080/mazen1/123456/176225
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 2 HD" tvg-logo="http://vod-logo.net/photos/0437bfa0bfcd077d1e8a9b6ef4f90216.png" group-title="Bein Sport HD⚽FHD",BeIN Sports Xtra 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/176224.m3u8
+http://new-pro.tv:8080/mazen1/123456/176224
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 2 4K" tvg-logo="http://vod-logo.net/photos/0437bfa0bfcd077d1e8a9b6ef4f90216.png" group-title="Bein Sport⚽4K",BeIN Sports Xtra 2 4K
 
-http://new-pro.tv:8080/live/mazen1/123456/176222.m3u8
+http://new-pro.tv:8080/mazen1/123456/176222
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 2 SD" tvg-logo="http://vod-logo.net/photos/0437bfa0bfcd077d1e8a9b6ef4f90216.png" group-title="Bein Sport⚽SD",BeIN Sports Xtra 2 SD
 
-http://new-pro.tv:8080/live/mazen1/123456/176226.m3u8
+http://new-pro.tv:8080/mazen1/123456/176226
 
 ============Arabic⚽Sports===========
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 1 HD" tvg-logo="http://vod-logo.net/photos/3a5f6cd74e18795eff0716e702da8165.png" group-title="Arabic⚽Sports",Sport | Ar: Abu Dhabi Sports 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/67459.m3u8
+http://new-pro.tv:8080/mazen1/123456/67459
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 2 HD" tvg-logo="http://vod-logo.net/photos/56f87211a4a5593a6c00936758142919.png" group-title="Arabic⚽Sports",Sport | Ar: Abu Dhabi Sports 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/67460.m3u8
+http://new-pro.tv:8080/mazen1/123456/67460
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 3 HD" tvg-logo="http://vod-logo.net/photos/ca752d69f863dc8476652d5802d0c538.png" group-title="Arabic⚽Sports",Sport | Ar: Abu Dhabi Sports 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/67461.m3u8
+http://new-pro.tv:8080/mazen1/123456/67461
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 4 HD" tvg-logo="http://vod-logo.net/photos/e55f342a89853aa570cad49abc0005f3.png" group-title="Arabic⚽Sports",Sport | Ar: Abu Dhabi Sports 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/67462.m3u8
+http://new-pro.tv:8080/mazen1/123456/67462
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 1 HD" tvg-logo="http://vod-logo.net/photos/90757db528d7de115eaa7cc212419877.png" group-title="Arabic⚽Sports",Sport | Ar: KSA Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33666.m3u8
+http://new-pro.tv:8080/mazen1/123456/33666
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 2 HD" tvg-logo="http://vod-logo.net/photos/4add404a2d5055d7b698a77879a8d349.jpg" group-title="Arabic⚽Sports",Sport | Ar: KSA Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33664.m3u8
+http://new-pro.tv:8080/mazen1/123456/33664
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 3 HD" tvg-logo="http://www.vod-logo.net/photos/f86aaba76138a8936a2a1958be3181bd.jpg" group-title="Arabic⚽Sports",Sport | Ar: KSA Sport 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33528.m3u8
+http://new-pro.tv:8080/mazen1/123456/33528
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 4 HD" tvg-logo="http://www.vod-logo.net/photos/f86aaba76138a8936a2a1958be3181bd.jpg" group-title="Arabic⚽Sports",Sport | Ar: KSA Sport 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33527.m3u8
+http://new-pro.tv:8080/mazen1/123456/33527
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 1 HD" tvg-logo="http://www.vod-logo.net/photos/5bc9d44d3ef7efdf24686d247ab8b731.jpg" group-title="Arabic⚽Sports",Sport | Ar: Dubai Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33461.m3u8
+http://new-pro.tv:8080/mazen1/123456/33461
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 2 HD" tvg-logo="http://www.vod-logo.net/photos/6fc0bc5c49c642cbcf5c21d0104f7622.jpg" group-title="Arabic⚽Sports",Sport | Ar: Dubai Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33563.m3u8
+http://new-pro.tv:8080/mazen1/123456/33563
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 3 HD" tvg-logo="http://www.vod-logo.net/photos/394aac4ba00809aebac52fd8504af2e4.jpg" group-title="Arabic⚽Sports",Sport | Ar: Dubai Sport 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33564.m3u8
+http://new-pro.tv:8080/mazen1/123456/33564
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 1 HD" tvg-logo="http://vod-logo.net/photos/9158844f96c2a492a58fbd014f9ae68a.jpg" group-title="Arabic⚽Sports",Sport | Ar: Dubai Racing 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33670.m3u8
+http://new-pro.tv:8080/mazen1/123456/33670
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 2 HD" tvg-logo="http://www.vod-logo.net/photos/bc7f8a67e89666e42575e47d61521f0a.jpg" group-title="Arabic⚽Sports",Sport | Ar: Dubai Racing 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33561.m3u8
+http://new-pro.tv:8080/mazen1/123456/33561
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 3 HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Dubai Racing 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/299574.m3u8
+http://new-pro.tv:8080/mazen1/123456/299574
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 1" tvg-logo="http://vod-logo.net/photos/b0d908ea56909d69c6f4d41a8d817235.png" group-title="Arabic⚽Sports",Sport | Ar: On Time Sport HD 1
 
-http://new-pro.tv:8080/live/mazen1/123456/145725.m3u8
+http://new-pro.tv:8080/mazen1/123456/145725
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 2" tvg-logo="http://vod-logo.net/photos/3b1d514bb843b5c7d071cbe4ab4651dd.png" group-title="Arabic⚽Sports",Sport | Ar: On Time Sport HD 2
 
-http://new-pro.tv:8080/live/mazen1/123456/145726.m3u8
+http://new-pro.tv:8080/mazen1/123456/145726
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 3" tvg-logo="http://vod-logo.net/photos/dfef92f4d1b929d86c157bb61e5b0178.png" group-title="Arabic⚽Sports",Sport | Ar: On Time Sport HD 3
 
-http://new-pro.tv:8080/live/mazen1/123456/145727.m3u8
+http://new-pro.tv:8080/mazen1/123456/145727
 
 #EXTINF:-1 tvg-id="alkassone.qa" tvg-name="BeIN Alkass 1 HD" tvg-logo="http://vod-logo.net/photos/1b38ce73c33b069730e2522a9b05a55e.jpg" group-title="Arabic⚽Sports",BeIN Alkass 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33661.m3u8
+http://new-pro.tv:8080/mazen1/123456/33661
 
 #EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="BeIN Alkass 2 HD" tvg-logo="http://vod-logo.net/photos/f275d5b3fa7145127b8f39c6b4f85dab.jpg" group-title="Arabic⚽Sports",BeIN Alkass 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33660.m3u8
+http://new-pro.tv:8080/mazen1/123456/33660
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 HD" tvg-logo="" group-title="Arabic⚽Sports",BeIN Alkass 3 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/312243.m3u8
+http://new-pro.tv:8080/mazen1/123456/312243
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 HD" tvg-logo="" group-title="Arabic⚽Sports",BeIN Alkass 4 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/265131.m3u8
+http://new-pro.tv:8080/mazen1/123456/265131
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 HD" tvg-logo="" group-title="Arabic⚽Sports",BeIN Alkass 5 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/265132.m3u8
+http://new-pro.tv:8080/mazen1/123456/265132
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Shabab Iraq Sport 1 HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Shabab Iraq Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/178142.m3u8
+http://new-pro.tv:8080/mazen1/123456/178142
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports | Ar: Al Rabiaa Sport HD" tvg-logo="" group-title="Arabic⚽Sports",Sports | Ar: Al Rabiaa Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/78843.m3u8
+http://new-pro.tv:8080/mazen1/123456/78843
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 1 HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Bahrain Sport 1 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/110738.m3u8
+http://new-pro.tv:8080/mazen1/123456/110738
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 2 HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Bahrain Sport 2 HD
 
-http://new-pro.tv:8080/live/mazen1/123456/178149.m3u8
+http://new-pro.tv:8080/mazen1/123456/178149
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Saudi 24 Sport" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Saudi 24 Sport
 
-http://new-pro.tv:8080/live/mazen1/123456/299281.m3u8
+http://new-pro.tv:8080/mazen1/123456/299281
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Oman Sport HD" tvg-logo="http://vod-logo.net/photos/5f743babffc410ad51f129add9891b0b.png" group-title="Arabic⚽Sports",Sport | Ar: Oman Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/100002.m3u8
+http://new-pro.tv:8080/mazen1/123456/100002
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Zamalek Sports" tvg-logo="http://vod-logo.net/photos/7e3ff41d07ecdfd4bdaf85a16bd5e509.png" group-title="Arabic⚽Sports",Sport | Ar: Zamalek Sports
 
-http://new-pro.tv:8080/live/mazen1/123456/178148.m3u8
+http://new-pro.tv:8080/mazen1/123456/178148
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Nile Sport" tvg-logo="http://vod-logo.net/photos/d74231da98a38310c23a1545064ae886.png" group-title="Arabic⚽Sports",Sport | Ar: Nile Sport
 
-http://new-pro.tv:8080/live/mazen1/123456/178146.m3u8
+http://new-pro.tv:8080/mazen1/123456/178146
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Ahly TV" tvg-logo="http://vod-logo.net/photos/4875412ffa110272fc6064b0632239af.png" group-title="Arabic⚽Sports",Sport | Ar: Al Ahly TV
 
-http://new-pro.tv:8080/live/mazen1/123456/178137.m3u8
+http://new-pro.tv:8080/mazen1/123456/178137
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Hilal TV" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Al Hilal TV
 
-http://new-pro.tv:8080/live/mazen1/123456/178138.m3u8
+http://new-pro.tv:8080/mazen1/123456/178138
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Heddaf TV" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Al Heddaf TV
 
-http://new-pro.tv:8080/live/mazen1/123456/178140.m3u8
+http://new-pro.tv:8080/mazen1/123456/178140
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Libya Sport 1" tvg-logo="http://www.vod-logo.net/photos/4cfca5dcbe23b87ddd2dc5360b70e495.jpg" group-title="Arabic⚽Sports",Sport | Ar: Libya Sport 1
 
-http://new-pro.tv:8080/live/mazen1/123456/33389.m3u8
+http://new-pro.tv:8080/mazen1/123456/33389
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Libya Sport 2" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Libya Sport 2
 
-http://new-pro.tv:8080/live/mazen1/123456/178145.m3u8
+http://new-pro.tv:8080/mazen1/123456/178145
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Iraqia Sport HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Iraqia Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/178141.m3u8
+http://new-pro.tv:8080/mazen1/123456/178141
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Jordan Sport HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Jordan Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/178143.m3u8
+http://new-pro.tv:8080/mazen1/123456/178143
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Kuwait Sport HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Kuwait Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/178144.m3u8
+http://new-pro.tv:8080/mazen1/123456/178144
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Kuwait Sport Plus" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Kuwait Sport Plus
 
-http://new-pro.tv:8080/live/mazen1/123456/299282.m3u8
+http://new-pro.tv:8080/mazen1/123456/299282
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Palestine Sport" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Palestine Sport
 
-http://new-pro.tv:8080/live/mazen1/123456/178147.m3u8
+http://new-pro.tv:8080/mazen1/123456/178147
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Sharjah Sport HD" tvg-logo="http://www.vod-logo.net/photos/968ee38da8adf3421baeeca4904c289c.jpg" group-title="Arabic⚽Sports",Sport | Ar: Sharjah Sport HD
 
-http://new-pro.tv:8080/live/mazen1/123456/33387.m3u8
+http://new-pro.tv:8080/mazen1/123456/33387
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Arryadia HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Arryadia HD
 
-http://new-pro.tv:8080/live/mazen1/123456/178139.m3u8
+http://new-pro.tv:8080/mazen1/123456/178139
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: TASETI SPORT HD" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: TASETI SPORT HD
 
-http://new-pro.tv:8080/live/mazen1/123456/299283.m3u8
+http://new-pro.tv:8080/mazen1/123456/299283
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Yas Sport" tvg-logo="" group-title="Arabic⚽Sports",Sport | Ar: Yas Sport
 
-http://new-pro.tv:8080/live/mazen1/123456/265133.m3u8
+http://new-pro.tv:8080/mazen1/123456/265133
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport: WWE HD" tvg-logo="http://vod-logo.net/photos/1368f40a61fb1cef5628d0d8150daf64.jpg" group-title="Arabic⚽Sports",Sport: WWE HD
 
-http://new-pro.tv:8080/live/mazen1/123456/34320.m3u8
+http://new-pro.tv:8080/mazen1/123456/34320
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport: RealMadrid TV" tvg-logo="" group-title="Arabic⚽Sports",Sport: RealMadrid TV
 
-http://new-pro.tv:8080/live/mazen1/123456/72169.m3u8
-
-
+http://new-pro.tv:8080/mazen1/123456/72169
 
