@@ -10,6 +10,9 @@
 #EXTINF:-1 tvg-logo="http://bit.ly/2TjTs4L" group-title="Channel VIDIO",Kode Gratis By Semprul
 https://www.dropbox.com/s/16jbz11qsrqvok6/Buih%20Jadi%20Permadani.mp4?dl=1
 
+#EXTINF:-1 tvg-id="Rcti.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Rcti
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
 #EXTINF:-1 tvg-id="Sctv.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Sctv
 #EXTVLCOPT:network-caching=1000
 http://akudandia.xyz/locs/akudandia-204.m3u8
