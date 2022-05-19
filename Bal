@@ -11,6 +11,7 @@
 https://www.dropbox.com/s/16jbz11qsrqvok6/Buih%20Jadi%20Permadani.mp4?dl=1
 
 #EXTINF:-1 tvg-id="Rcti.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Rcti
+#EXTVLCOPT:network-caching=1000
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 #EXTINF:-1 tvg-id="Sctv.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Sctv
@@ -28,6 +29,10 @@ http://akudandia.xyz/locs/akudandia-734.m3u8
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",TransTV
 #EXTVLCOPT:network-caching=1000
 http://akudandia.xyz/locs/akudandia-733.m3u8
+
+#EXTINF:-1 tvg-id="Inews.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",Inews
+#EXTVLCOPT:network-caching=1000
+https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 #EXTINF:-1 tvg-id="Kompas.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Channel VIDIO",KompasTV
 #EXTVLCOPT:network-caching=1000
