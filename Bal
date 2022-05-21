@@ -103,7 +103,7 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="Indonesia Channel", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
-#EXTINF:-1 tvg-id="Uchannel.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Indonesia Channel", Rcti
+#EXTINF:-1 tvg-id="Rcti.MACAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="Indonesia Channel", Rcti
 https://yamcode.com/raw/rcti-22941
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="Indonesia Channel", TVRI
